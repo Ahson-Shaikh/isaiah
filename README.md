@@ -773,7 +773,7 @@ From the top of my head, I'm sure there's already improvement to be made on :
 Hey hey ! It's always a good idea to say thank you and mention the people and projects that help us move forward.
 
 Big thanks to the individuals / teams behind these projects :
-- [laydocker](https://github.com/jesseduffield/lazydocker) : Isaiah wouldn't exist if Lazydocker hadn't been created prior, and to say that it is an absolutely incredible and very advanced project is an understatement.
+- [lazydocker](https://github.com/jesseduffield/lazydocker) : Isaiah wouldn't exist if Lazydocker hadn't been created prior, and to say that it is an absolutely incredible and very advanced project is an understatement.
 - [Heroicons](https://github.com/tailwindlabs/heroicons) : For the great icons.
 - [Melody](https://github.com/olahol/melody) : For the awesome Websocket implementation in Go.
 - [GoReleaser](https://github.com/goreleaser/goreleaser) : For the amazing release tool.
